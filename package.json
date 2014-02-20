@@ -1,0 +1,18 @@
+{
+  "name": "react-multiplayer",
+  "version": "0.0.0",
+  "description": "Multiplayer React using Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Firebase"
+  ],
+  "author": "Pete Hunt",
+  "license": "Apache 2",
+  "dependencies": {
+    "client-firebase": "0.0.1"
+  }
+}
