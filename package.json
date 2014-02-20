@@ -1,6 +1,6 @@
 {
   "name": "react-multiplayer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Multiplayer React using Firebase",
   "main": "index.js",
   "scripts": {
