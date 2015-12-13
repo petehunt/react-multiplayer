@@ -1,5 +1,7 @@
 # react-multiplayer
 
+![unmaintained](http://img.shields.io/badge/status-unmaintained-red.png)
+
 Make your React apps multiplayer! This leverages [Firebase](http://firebase.com) to magically make a React component's state shared across multiple users.
 
 ## Tutorial: multiplayer notepad
